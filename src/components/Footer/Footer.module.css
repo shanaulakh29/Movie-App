@@ -1,0 +1,28 @@
+
+.footer{
+    /* box-sizing: border-box; */
+    color:white;
+    position:relative;
+    /* bottom:-80px; */
+    /* height:100%; */
+    background-color: darkcyan;
+   display:flex;
+   flex-direction:column;
+   justify-content: center;
+   align-items: center;
+   height:100px;
+   border-radius: 10px;
+   /* padding-top:30px; */
+    
+
+}
+.foothead{
+    font-size: 20px;
+    /* text-align:center; */
+
+
+}
+.footbody{
+    margin-top:5px;
+    /* text-align:center; */
+}

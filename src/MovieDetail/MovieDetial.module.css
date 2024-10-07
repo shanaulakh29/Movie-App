@@ -1,0 +1,89 @@
+.moviesection{
+    color:white;
+    display:flex;
+height:100%;
+/* border:1px solid red; */
+align-items:center;
+flex:1;
+
+
+
+}
+.left{
+    padding-top:20px;
+    background-color: rgb(3, 62, 90);
+    border-radius: 10px;
+    /* border:1px solid red; */
+    padding-left:60px;
+    min-width:500px;
+    flex:1;
+}
+.votessubhead{
+    white-space: nowrap;
+}
+.yearsubhead{
+    white-space: nowrap;
+}
+.runtimesubhead{
+    white-space: nowrap;
+}
+.movietitle{
+    
+    font-size: 30px;
+    line-height: 50px;
+}
+.imdbRating{
+    color:darkgoldenrod;
+   
+}
+.head{
+    color:blueviolet;
+    margin-right:20px;
+   
+}
+.plot{
+    margin-top:20px;
+    font-size:15px;
+}
+.subhead{
+    margin-top:15px;
+}
+.extra{
+    margin-left:20px;
+}
+.extrahead{
+    /* border:1px solid red; */
+    width:70px;
+    display:inline-block;
+}
+.starsvg{
+    position:relative;
+    top:5px;
+    left:-3px;
+    fill:yellow;
+   
+}
+.thumbsup{
+    position:relative;
+    top:5px;
+    left:-1px;
+    fill:white;
+}
+.runtimeicon{
+    position:relative;
+    top:5px;
+    left:-3px;
+    height:20px;
+
+}
+.yearicon{
+        position:relative;
+        top:5px;
+        left:-3px;
+        height:20px; 
+}
+.sectionright{
+    margin-left:20px;
+    padding-right:10px;
+    padding-top:10px;
+}
